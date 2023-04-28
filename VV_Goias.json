@@ -1,0 +1,446 @@
+[
+  {
+        "key": "AGL",
+        "latitude": -15.72528,
+        "longitude": -48.28469,
+        "name": "AGUAS LINDAS"
+  },
+  {
+        "key": "ALX",
+        "latitude": -16.08902,
+        "longitude": -48.50574,
+        "name": "ALEXANIA"
+  },
+  {
+        "key": "ANO",
+        "latitude": -14.48380,
+        "longitude": -46.49668,
+        "name": "ALVORADA DO NORTE"
+  },
+  {
+        "key": "ANP",
+        "latitude": -16.30218,
+        "longitude": -48.94850,
+        "name": "ANAPOLIS"
+  },
+  {
+        "key": "ANC",
+        "latitude": -16.46104,
+        "longitude": -49.95884,
+        "name": "ANICUNS"
+  },
+  {
+        "key": "APS",
+        "latitude": -16.82343,
+        "longitude": -49.25065,
+        "name": "APARECIDA SHOPPING"
+  },
+  {
+        "key": "ARS",
+        "latitude": -16.65951,
+        "longitude": -49.25968,
+        "name": "ARAGUAIA SHOPPING"
+  },
+  {
+        "key": "BEV",
+        "latitude": -16.97642,
+        "longitude": -48.95286,
+        "name": "BELA VISTA"
+  },
+  {
+        "key": "BJG",
+        "latitude": -18.21698,
+        "longitude": -49.73587,
+        "name": "BOM JESUS DE GOIAS"
+  },
+  {
+        "key": "BUN",
+        "latitude": -16.71068,
+        "longitude": -49.26760,
+        "name": "BUENA VISTA"
+  },
+  {
+        "key": "BAL",
+        "latitude": -18.13860,
+        "longitude": -49.04041,
+        "name": "BURITI ALEGRE"
+  },
+  {
+        "key": "BUS",
+        "latitude": -16.74085,
+        "longitude": -49.27711,
+        "name": "BURITI SHOPPING"
+  },
+  {
+        "key": "CNO",
+        "latitude": -17.75545,
+        "longitude": -48.61720,
+        "name": "CALDAS NOVAS"
+  },
+  {
+        "key": "CAM",
+        "latitude": -16.67334,
+        "longitude": -49.28361,
+        "name": "CAMPINAS"
+  },
+  {
+        "key": "CBE",
+        "latitude": -13.03661,
+        "longitude": -46.77332,
+        "name": "CAMPOS BELOS"
+  },
+  {
+        "key": "CAT",
+        "latitude": -18.16590,
+        "longitude": -47.94810,
+        "name": "CATALAO"
+  },
+  {
+        "key": "CER",
+        "latitude": -15.30916,
+        "longitude": -49.62106,
+        "name": "CERES"
+  },
+  {
+        "key": "CJA",
+        "latitude": -16.68244,
+        "longitude": -49.31367,
+        "name": "CIDADE JARDIM"
+  },
+  {
+        "key": "CGO",
+        "latitude": -15.94318,
+        "longitude": -50.14138,
+        "name": "CIDADE DE GOIAS"
+  },
+  {
+        "key": "CRT",
+        "latitude": -16.76432,
+        "longitude": -47.61039,
+        "name": "CRISTALINA"
+  },
+  {
+        "key": "FOR",
+        "latitude": -15.55068,
+        "longitude": -47.32953,
+        "name": "FORMOSA"
+  },
+  {
+        "key": "GAR",
+        "latitude": -16.76464,
+        "longitude": -49.34649,
+        "name": "GARAVELO"
+  },
+  {
+        "key": "GON",
+        "latitude": -15.31575,
+        "longitude": -49.11988,
+        "name": "GOIANESIA"
+  },
+  {
+        "key": "GOR",
+        "latitude": -16.49614,
+        "longitude": -49.42456,
+        "name": "GOIANIRA"
+  },
+  {
+        "key": "GOT",
+        "latitude": -18.01225,
+        "longitude": -49.35470,
+        "name": "GOIATUBA"
+  },
+  {
+        "key": "INH",
+        "latitude": -16.36448,
+        "longitude": -49.49381,
+        "name": "INHUMAS"
+  },
+  {
+        "key": "IPM",
+        "latitude": -17.72269,
+        "longitude": -48.16651,
+        "name": "IPAMERI"
+  },
+  {
+        "key": "IPO",
+        "latitude": -16.43950,
+        "longitude": -51.11573,
+        "name": "IPORA"
+  },
+  {
+        "key": "ITA",
+        "latitude": -16.01919,
+        "longitude": -49.80309,
+        "name": "ITABERAI"
+  },
+  {
+        "key": "ITP",
+        "latitude": -14.95377,
+        "longitude": -49.54694,
+        "name": "ITAPACI"
+  },
+  {
+        "key": "ITG",
+        "latitude": -15.56299,
+        "longitude": -49.94639,
+        "name": "ITAPURANGA"
+  },
+  {
+        "key": "ITC",
+        "latitude": -16.20276,
+        "longitude": -49.60424,
+        "name": "ITAUCU"
+  },
+  {
+        "key": "ITB",
+        "latitude": -18.40888,
+        "longitude": -49.20824,
+        "name": "ITUMBIARA"
+  },
+  {
+        "key": "JAG",
+        "latitude": -15.74711,
+        "longitude": -49.32956,
+        "name": "JARAGUA"
+  },
+  {
+        "key": "JAT",
+        "latitude": -17.87297,
+        "longitude": -51.73150,
+        "name": "JATAI"
+  },
+  {
+        "key": "LOZ",
+        "latitude": -16.69778,
+        "longitude": -49.22418,
+        "name": "LOZANDES"
+  },
+  {
+        "key": "LUZ",
+        "latitude": -16.25595,
+        "longitude": -47.95471,
+        "name": "LUZIANIA"
+  },
+  {
+        "key": "LIN",
+        "latitude": -16.15493,
+        "longitude": -47.95615,
+        "name": "LUZIANIA INGA"
+  },
+  {
+        "key": "MAN",
+        "latitude": -16.61643,
+        "longitude": -49.32125,
+        "name": "MANGALO"
+  },
+  {
+        "key": "MIN",
+        "latitude": -13.53169,
+        "longitude": -48.22424,
+        "name": "MINACU"
+  },
+  {
+        "key": "MIR",
+        "latitude": -17.54927,
+        "longitude": -52.54457,
+        "name": "MINEIROS"
+  },
+  {
+        "key": "MOR",
+        "latitude": -17.73273,
+        "longitude": -49.10400,
+        "name": "MORRINHOS"
+  },
+  {
+        "key": "MOZ",
+        "latitude": -14.74966,
+        "longitude": -50.56624,
+        "name": "MOZARLANDIA"
+  },
+  {
+        "key": "NER",
+        "latitude": -16.40331,
+        "longitude": -49.21957,
+        "name": "NEROPOLIS"
+  },
+  {
+        "key": "PAL",
+        "latitude": -16.80928,
+        "longitude": -49.92924,
+        "name": "PALMEIRAS"
+  },
+  {
+        "key": "PAR",
+        "latitude": -16.94935,
+        "longitude": -50.44770,
+        "name": "PARAUNA"
+  },
+  {
+        "key": "PAS",
+        "latitude": -16.63010,
+        "longitude": -49.27971,
+        "name": "PASSEIO DAS AGUAS"
+  },
+  {
+        "key": "PIJ",
+        "latitude": -17.30705,
+        "longitude": -49.02689,
+        "name": "PIRACANJUBA"
+  },
+  {
+        "key": "PIR",
+        "latitude": -15.85361,
+        "longitude": -48.96422,
+        "name": "PIRINOPOLIS"
+  },
+  {
+        "key": "PRI",
+        "latitude": -17.30189,
+        "longitude": -48.27955,
+        "name": "PIRES DO RIO"
+  },
+  {
+        "key": "PLA",
+        "latitude": -15.45433,
+        "longitude": -47.60881,
+        "name": "PLANALTINA"
+  },
+  {
+        "key": "PGT",
+        "latitude": -13.43234,
+        "longitude": -49.14203,
+        "name": "PORANGATU"
+  },
+  {
+        "key": "POS",
+        "latitude": -14.09225,
+        "longitude": -46.36386,
+        "name": "POSSE"
+  },
+  {
+        "key": "PBI",
+        "latitude": -16.67197,
+        "longitude": -49.23642,
+        "name": "PRACA DA BIBLIA"
+  },
+  {
+        "key": "QUI",
+        "latitude": -18.45023,
+        "longitude": -50.44769,
+        "name": "QUIRINOPOLIS"
+  },
+  {
+        "key": "RIA",
+        "latitude": -15.31616,
+        "longitude": -49.58208,
+        "name": "RIALMA"
+  },
+  {
+        "key": "RIV",
+        "latitude": -17.78980,
+        "longitude": -50.92001,
+        "name": "RIO VERDE"
+  },
+  {
+        "key": "RUB",
+        "latitude": -15.16629,
+        "longitude": -49.80550,
+        "name": "RUBIATABA"
+  },
+  {
+        "key": "SLM",
+        "latitude": -16.51487,
+        "longitude": -50.37889,
+        "name": "SAO LUIZ MONTES BELOS"
+  },
+  {
+        "key": "SMA",
+        "latitude": -13.27099,
+        "longitude": -50.16063,
+        "name": "SAO MIGUEL ARAGUAIA"
+  },
+  {
+        "key": "SCA",
+        "latitude": -16.70012,
+        "longitude": -49.10051,
+        "name": "SENADOR CANEDO"
+  },
+  {
+        "key": "SBO",
+        "latitude": -16.69550,
+        "longitude": -49.26542,
+        "name": "SHOPPING BOUGAINVILLE"
+  },
+  {
+        "key": "SCE",
+        "latitude": -16.66634,
+        "longitude": -49.30917,
+        "name": "SHOPPING CERRADO"
+  },
+  {
+        "key": "SHE",
+        "latitude": -17.81086,
+        "longitude": -50.59908,
+        "name": "SANTA HELENA DE GOIAS"
+  },
+  {
+        "key": "SAD",
+        "latitude": -15.94276,
+        "longitude": -48.25666,
+        "name": "SANTO ANTONIO DESCOBERTO"
+  },
+  {
+        "key": "TRI",
+        "latitude": -16.65581,
+        "longitude": -49.48859,
+        "name": "TRINDADE"
+  },
+  {
+        "key": "TMA",
+        "latitude": -16.63326,
+        "longitude": -49.39023,
+        "name": "TRINDADE MAIZA"
+  },
+  {
+        "key": "VAP",
+        "latitude": -16.06767,
+        "longitude": -47.98354,
+        "name": "VALPARAISO"
+  },
+  {
+		"key": "HID",
+		"latitude": -16.95824,
+		"longitude": -49.22222,
+		"name": "HIDROLANDIA"
+  },
+  {
+        "key": "NGA",
+        "latitude": -16.07703,
+        "longitude": -48.05718,
+        "name": "NOVO GAMA"
+  },
+  {
+        "key": "CRX",
+        "latitude": -14.53290,
+        "longitude": -49.96003,
+        "name": "CRIXAS"
+  },
+  {
+        "key": "JUS",
+        "latitude": -15.87201,
+        "longitude": -50.86833,
+        "name": "JUSSARA"
+  },
+  {
+        "key": "ANS",
+        "latitude": -16.34207,
+        "longitude": -48.95414,
+        "name": "JUSSARA"
+  },
+  {
+        "key": "PBE",
+        "latitude": -15.17807,
+        "longitude": -48.28761,
+        "name": "PADRE BERNARDO"
+  }   
+]
